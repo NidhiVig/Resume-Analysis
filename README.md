@@ -131,9 +131,9 @@ Create a virtual environment and activate it **(recommended)**
 
 Open your command prompt and change your project directory to ```AI-Resume-Analyzer``` and run the following command 
 ```bash
-python -m venv venvapp
+python -m venv test
 
-venvapp/Scripts/activate
+test/Scripts/activate
 
 ```
 
