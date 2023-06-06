@@ -72,7 +72,7 @@ vi. To improve this tool by getting feedbacks
 </details>
 
 <!-- Features -->
-## Features 🤦‍♂
+## Features 
 ### Client: -
 - Fetching Location and Miscellaneous Data
 
