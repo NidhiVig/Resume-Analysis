@@ -1,13 +1,11 @@
-<p><small>Best View in <a href="https://github.com/settings/appearance">Light Mode</a> and Desktop Site (Recommended)</small></p><br/>
-
-![AI-Resume-Analyzer](https://socialify.git.ci/deepakpadhi986/AI-Resume-Analyzer/image?description=1&descriptionEditable=5th%20Sem%20Final%20Year%20Project%20at%20Kirti%20M%20Doongursee%20College%20(2022%20-%2023)&font=Raleway&language=1&pattern=Plus&theme=Light)
+![AI-Resume-Analyzer](https://github.com/NidhiVig/Resume-Analysis/blob/master/screenshots/readme_img.jpg)
 
 <div align="center">
   <h1>🌴 AI RESUME ANALYZER 🌴</h1>
   <p>A Tool for Resume Analysis, Predictions and Recommendations</p>
   <!-- Badges -->
   <p>
-    <img src="https://img.shields.io/github/last-commit/deepakpadhi986/AI-Resume-Analyzer" alt="last update" />
+    <img src="https://github.com/NidhiVig/Resume-Analysis/blob/master/screenshots/readme_img.jpg" alt="last update" />
     <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="open source" />
   </p>
   
