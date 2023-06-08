@@ -1,6 +1,3 @@
-# Developed by dnoobnerd [https://dnoobnerd.netlify.app]    Made with Streamlit
-
-
 ###### Packages Used ######
 import streamlit as st # core package used in this project
 import pandas as pd
@@ -27,8 +24,10 @@ from streamlit_tags import st_tags
 from PIL import Image
 # pre stored data for prediction purposes
 from Courses import ds_course,web_course,android_course,ios_course,uiux_course,resume_videos,interview_videos
-# import nltk~
-# nltk.download('stopwords')
+
+#import nltk
+#nltk.download('stopwords')
+
 
 ###### Preprocessing functions ######
 
@@ -135,7 +134,7 @@ def run():
     st.sidebar.markdown("# Choose Something...")
     activities = ["User", "Feedback", "About", "Admin"]
     choice = st.sidebar.selectbox("Choose among the given options:", activities)
-    link = '<b>Built with 🤍 by <a href="https://dnoobnerd.netlify.app/" style="text-decoration: none; color: #021659;">Graphians</a></b>' 
+    link = '<b>Built with 🤍 by <a href="" style="text-decoration: none; color: #021659;">Graphians</a></b>' 
     st.sidebar.markdown(link, unsafe_allow_html=True)
     st.sidebar.markdown('''
         <!-- site visitors -->
@@ -147,9 +146,6 @@ def run():
                 <img src="https://counter9.stat.ovh/private/freecounterstat.php?c=t2xghr8ak6lfqt3kgru233378jya38dy" border="0" title="hit counter" alt="hit counter"> -->
             </a>
         </noscript>
-    
-        <p>Visitors <img src="https://counter9.stat.ovh/private/freecounterstat.php?c=t2xghr8ak6lfqt3kgru233378jya38dy" title="Free Counter" Alt="web counter" width="60px"  border="0" /></p>
-    
     ''', unsafe_allow_html=True)
 
     ###### Creating Database and Table ######

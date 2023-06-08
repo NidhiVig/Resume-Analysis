@@ -1,24 +1,15 @@
-<p><small>Best View in <a href="https://github.com/settings/appearance">Light Mode</a> and Desktop Site (Recommended)</small></p><br/>
-
-![AI-Resume-Analyzer](https://socialify.git.ci/deepakpadhi986/AI-Resume-Analyzer/image?description=1&descriptionEditable=5th%20Sem%20Final%20Year%20Project%20at%20Kirti%20M%20Doongursee%20College%20(2022%20-%2023)&font=Raleway&language=1&pattern=Plus&theme=Light)
+# AI-RESUME ANALYZER
+<p>
+    <img src="https://github.com/NidhiVig/Resume-Analysis/blob/master/screenshots/readme_img.jpg" alt="last update" />
+ </p>
 
 <div align="center">
   <h1>🌴 AI RESUME ANALYZER 🌴</h1>
   <p>A Tool for Resume Analysis, Predictions and Recommendations</p>
   <!-- Badges -->
   <p>
-    <img src="https://img.shields.io/github/last-commit/deepakpadhi986/AI-Resume-Analyzer" alt="last update" />
     <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="open source" />
   </p>
-  
-  <!--links-->
-  <h4>
-    <a href="#preview-">View Demo</a>
-    <span> · </span>
-    <a href="#setup--installation-">Installation</a>
-    <span> · </span>
-    <a href="mailto:dnoobnerd@gmail.com?subject=I%20Want%20The%20Project%20Report%20of%20AI-RESUME-ANALYZER%20(2022%20 %2023)&body=Here%20Are%20My%20Details%20%F0%9F%98%89%0D%0A%0D%0AOrganization%2FCollege%20Name%3A%20%0D%0A%0D%0AFull%20Name%3A%20%0D%0A%0D%0AGitHub%20Profile%20%3A%20%0D%0A%0D%0AFrom%20where%20did%20you%20get%20to%20know%20about%20this%20project%3A%0D%0A%0D%0APurpose%20of%20asking%20project%20report%20(describe)%3A%0D%0A%0D%0A%0D%0AIf%20the%20above%20information%20satisfy%20your%20identity%20you%20will%20get%20the%20report%20to%20your%20email.">Project Report</a>
-  </h4>
 </div><br/><br/>
 
 ## About the Project 
@@ -81,7 +72,7 @@ vi. To improve this tool by getting feedbacks
 </details>
 
 <!-- Features -->
-## Features 🤦‍♂
+## Features 
 ### Client: -
 - Fetching Location and Miscellaneous Data
 
@@ -140,9 +131,9 @@ Create a virtual environment and activate it **(recommended)**
 
 Open your command prompt and change your project directory to ```AI-Resume-Analyzer``` and run the following command 
 ```bash
-python -m venv venvapp
+python -m venv test
 
-venvapp/Scripts/activate
+test/Scripts/activate
 
 ```
 
